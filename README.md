@@ -1,7 +1,6 @@
 # saga-extremegohorse
 
-a extreme beta game
-
+Another rushed development game
 
 # game music
 
