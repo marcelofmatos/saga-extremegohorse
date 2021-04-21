@@ -3,6 +3,7 @@ version: '2'
 
 services:
   web:
-    image: nginx
+    image: php:7-apache
     volumes: 
-      - ./:/usr/share/nginx/html
+      #- ./:/usr/share/nginx/html
+      - ./:/var/www/html
